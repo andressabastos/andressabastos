@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Andressa Bastos 👩‍🦰
+# Hello World! I'm Andressa 👩‍🦰
 
 Reach me out 👇🏼
 
