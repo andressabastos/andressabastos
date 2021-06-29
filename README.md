@@ -9,19 +9,20 @@ I´am a Analysis and Systems Development student 💻
 Technical Graduate in Agriculture 🌾
 
 Programador Java  ☕
+<h2>I have skills in:</h2>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JAVA" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Java/Java-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 ### 🌍 "Intelligence is the ability to adapt to change" 🧠
 
 - 📍 Goiânia - GO
 - 💻 Analysis and Systems Development
 
-<h2>I have skills in:</h2>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Java/Java-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
 
 
