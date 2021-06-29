@@ -2,7 +2,7 @@
 
 My name is Andressa Bastos 👩‍🦰
 
-I´am a Analysis and Systems Development 💻
+I´am a Analysis and Systems Development student 💻
 
 Technical Graduate in Agriculture 🌾
 
