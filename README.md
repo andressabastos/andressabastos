@@ -6,7 +6,7 @@ I´am a Analysis and Systems Development student 💻
 
 Technical Graduate in Agriculture 🌾
 
-Programming in Java ☕
+Programador Java  ☕
 
 ### 🌍 "Intelligence is the ability to adapt to change" 🧠
 
