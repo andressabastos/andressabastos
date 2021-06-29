@@ -15,7 +15,7 @@ Java Programmer ☕
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+
 </div>
 
 ### 🌍 "Intelligence is the ability to adapt to change" 🧠
