@@ -5,7 +5,7 @@ Estudo Análise e desenvolvimento de sistemas - PUC GO 💻
 
 Graduada Técnica em Agropecuária. 🌱
 
-### 🌍 "Inteligêcia é a capacidade de se adptar a mudança" 🧠
+### 🌍 "INTELLIGENCE IS THE ABILITY TO ADAPT TO THE" 🧠
 
 - 📍 Goiânia - GO
 - 💻 Análise e desenvolvimento de sistemas
