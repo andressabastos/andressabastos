@@ -3,7 +3,7 @@ Meu nome é Andressa Bastos 😄
 
 Estudo Análise e desenvolvimento de sistemas - PUC GO 💻
 
-Sou formada em Técnica em agropecuária. 🌱
+Graduada Técnica em Agropecuária. 🌱
 
 ### 🌍 "Inteligêcia é a capacidade de se adptar a mudança" 🧠
 
