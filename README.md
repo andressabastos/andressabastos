@@ -8,7 +8,8 @@ I´am a Analysis and Systems Development student 💻
 
 Technical Graduate in Agriculture 🌾
 
-Programador Java  ☕
+Java Programmer ☕
+
 <h2>I have skills in:</h2>
 
 <div style="display: inline_block"><br>
