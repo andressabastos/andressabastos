@@ -6,8 +6,6 @@ Reach me out 👇🏼
 
 I´am a Analysis and Systems Development student 💻
 
-Technical Graduate in Agriculture 🌾
-
 Java Programmer ☕
 
 <h2>I have skills in:</h2>
